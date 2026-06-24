@@ -1,4 +1,4 @@
-let base_URL = "https://api.frankfurter.app/latest?";
+let base_URL = "https://api.frankfurter.dev/v1/latest?";
 let flag_URL = "https://flagsapi.com/";
 let dropdowns = document.querySelectorAll(".dropdown select");
 let btn = document.querySelector("form button");
